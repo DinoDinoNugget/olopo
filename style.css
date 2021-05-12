@@ -1,0 +1,52 @@
+.topNav {
+    overflow: hidden;
+    background-color: whitesmoke;
+    position: sticky;
+    width: 100%;
+    top: 0;
+}
+body {
+    background-image: url("");
+    text-align: center;
+}
+.topNav a {
+    float: left;
+    color: blue;
+    text-align: center;
+    font-size: 17px;
+    padding: 14px 16px;
+}
+.topNav-right {
+    float: right;
+
+}
+.img_div {
+    float: left;
+    width: 50%;
+    padding: 5px;
+
+}
+.menu_div {
+    float: right;
+    width: 50%;
+    padding: 16px;
+    font-size: 20px;
+
+}
+#menu_list {
+    background-color: cadetblue;
+    width: 200px;
+    font-size: 15px;
+}
+.block1 {
+    float: left;
+    width: 20%;
+    padding: 5px;
+
+}
+.block2 {
+    width: 80%;
+    float: left;
+    padding: 5px;
+
+}
